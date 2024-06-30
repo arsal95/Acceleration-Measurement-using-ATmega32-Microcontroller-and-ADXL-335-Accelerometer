@@ -3,4 +3,4 @@ The project was conducted for a real-time application in an elevator where the h
 
 For the experiment, all hardware works as a standalone unit including Atmega32 microcontroller, test circuit, acceleration sensor (ADXL355) with the micro SD card and two 6 volt batteries that supplies +6 volts and 
 -6 volts. The test should be taped firmly with rectangle wooden block in order to get proper measurement and to do proper calibration after each trip. For data recording the RS232 to micro SD converter. 
-As the standalone unit power on the received serial data will start logging on the micro SD card [5]. Original measured data is given below;
+As the standalone unit power on the received serial data will start logging on the micro SD card. Original measured data is given below;
