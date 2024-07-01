@@ -16,6 +16,7 @@ The original measured data is given below;
 | *Single Trip* |
 
 Above figure shows the behavior of the acceleration data.
+
 a. This is the acceleration due to calibration of sensor in horizontal direction.
 b. This is the acceleration due to the 90 degree tilt of sensor in vertical direction. The vertical line shows the 90 degree shift of the acceleration sensor.
 c. Acceleration start increase due to the moving of elevator in the upward direction.
