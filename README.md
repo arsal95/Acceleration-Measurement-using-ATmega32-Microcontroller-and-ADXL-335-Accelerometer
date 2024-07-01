@@ -18,15 +18,25 @@ The original measured data is given below;
 Above figure shows the behavior of the acceleration data.
 
 a. This is the acceleration due to calibration of sensor in horizontal direction.
+
 b. This is the acceleration due to the 90 degree tilt of sensor in vertical direction. The vertical line shows the 90 degree shift of the acceleration sensor.
+
 c. Acceleration start increase due to the moving of elevator in the upward direction.
+
 d. Acceleration due to the moving of elevator in the upward direction with constant velocity.
+
 e. Acceleration start decrease when the elevator reaches the second floor.
+
 f. Acceleration when the elevator stops for a short time on second floor.
+
 g. Deceleration due to the moving of elevator in the downward direction.
+
 h. Acceleration due to the moving of elevator in the downward direction with constant velocity.
+
 i. Acceleration start increase when the elevator reaches the ground floor.
+
 j. Elevator stops on ground floor.
+
 k. Again this is the acceleration due to calibration of sensor in horizontal direction from vertical direction.
 
 | <img src="./Images/Trip 2 measured acceleration in ADC format.JPG"> |
