@@ -114,6 +114,52 @@ Finally, the height (displacement) from the ground floor to the 2nd floor can be
 |:--:| 
 | *Figure 8: Displacement from ground floor to 2nd floor* |
 
+Figure 8 shows the height from the ground floor to the 2nd floor which is 3.75 meters. All the above procedures are also done for the trip 1, 3, and 4 to conclude the result.
 
+## Result
+In order to conclude the height or displacement from the ground floor to 2nd floor the data from four trips are collected. Below given table shows the measured height by doing four trips.
 
+<table>
+ 
+  <!--- <tr> (Comments)
+  []: # <td rowspan="1"><b> States </b></td>
+  []: # <td colspan="2"><b> Push button pressed</b> </td>
+  []: # <td colspan="2"><b> Push button not pressed </b></td>
+  []: # </tr> -->
+ 
+  
+  <tr>
+    <td><p align="center"><b>Trip<b></p></td>
+    <td><p align="center">Height</p></td>
+  </tr>
+  
+  
+   <tr>
+    <td>1</td>
+    <td><p align="center">4.10 m</p></td>
+  </tr>
+ 
+   <tr>
+    <td>2</td>
+    <td><p align="center">3.75 m</p></td>
+  </tr>
+ 
+   <tr>
+    <td>3</td>
+    <td><p align="center">3.70 m</p></td>
+  </tr>
+ 
+   <tr>
+    <td>4</td>
+    <td><p align="center">4.05 m</p></td>
+  </tr>
+</table>
+
+The average mean can be taken in order to take the average height from all the trips.
+
+<p align="center"><b>Mean Height = 3.90 m <b></p>
+
+Now, take the standard deviation of the measured data to see the dispersion of the data.
+
+<p align="center"><b>Standard Deviation = 0.176 m <b></p>
 
