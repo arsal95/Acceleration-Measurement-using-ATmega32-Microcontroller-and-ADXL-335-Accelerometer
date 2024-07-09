@@ -1,4 +1,4 @@
-# Acceleration-Measurement-using-ATmega32-Microcontroller-and-ADXL-335-Accelerometer
+# Utilizing Acceleration Sensor to Measure Tidal Heights: An Elevator-Based Experimental Approach
 This project is a real-time application where the height of the floors was measured in an elevator. The experiment was carried out from the ground floor to the second floor. Multiple trips in the elevator were conducted to ensure data accuracy by comparing each trip and taking the arithmetic mean of all the trips.
 
 All hardware works as a standalone unit including the Atmega32 microcontroller, test circuit, acceleration sensor (ADXL355) with the micro SD card and two 6-volt batteries that supply +6 volts and -6 volts. The test should be taped firmly with a rectangular wooden block in order to get proper measurements and to do proper calibration after each trip. For data recording the RS232 to micro SD converter. 
